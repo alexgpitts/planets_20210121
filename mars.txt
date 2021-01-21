@@ -1,2 +1,3 @@
 test
 modify
+Adding a third line to the file
